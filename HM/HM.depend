@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1591316908 source:d:\onedrive\×ÀÃæ\hm\main.cpp
+	<windows.h>
+	<algorithm>
+	<cstring>
+	<fstream>
+	<iostream>
+	<vector>
+
